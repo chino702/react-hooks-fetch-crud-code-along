@@ -1,52 +1,28 @@
 {
   "items": [
     {
-      "name": "chorizo",
+      "name": "Pomegranate",
       "category": "Produce",
       "isInCart": false,
-      "id": 7
+      "id": 1
     },
     {
-      "name": "chorizo",
+      "name": "Lettuce",
       "category": "Produce",
       "isInCart": false,
-      "id": 8
+      "id": 2
     },
     {
-      "name": "chorizo",
-      "category": "Produce",
+      "name": "Yogurt",
+      "category": "Dairy",
       "isInCart": false,
-      "id": 9
+      "id": 3
     },
     {
-      "name": "chorizo",
-      "category": "Produce",
+      "name": "Ice Cream",
+      "category": "Dessert",
       "isInCart": false,
-      "id": 10
-    },
-    {
-      "name": "meat",
-      "category": "Produce",
-      "isInCart": false,
-      "id": 11
-    },
-    {
-      "name": "meat",
-      "category": "Produce",
-      "isInCart": false,
-      "id": 12
-    },
-    {
-      "name": "meat",
-      "category": "Produce",
-      "isInCart": false,
-      "id": 13
-    },
-    {
-      "name": "meat",
-      "category": "Produce",
-      "isInCart": false,
-      "id": 14
+      "id": 4
     }
   ]
 }
